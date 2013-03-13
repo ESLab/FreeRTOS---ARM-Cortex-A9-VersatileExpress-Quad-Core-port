@@ -11,4 +11,6 @@ For more information on how to compile and boot the FreeRTOS port on the Versati
 
 This port was created by the Department of Information Technologies at Åbo Akademi University (https://research.it.abo.fi/) within the RECOMP project (http://www.recomp-project.eu/).
 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/2f005e48c99a4aeb9ef2a93ae6de0b68 "githalytics.com")](http://githalytics.com/ESLab/FreeRTOS---ARM-Cortex-A9-VersatileExpress-Quad-Core-port)
+
 
